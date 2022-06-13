@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Angular and Python
 - 🤔 I’m looking for help finding my first web dev role.
 - 📫 How to reach me: marcosspomberg@gmail.com / linkedin.com/in/marcos-spomberg
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
