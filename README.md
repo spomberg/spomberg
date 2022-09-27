@@ -6,6 +6,7 @@
 
 - [My Movie List](https://mymovielist.ca) (My first solo full-stack project)
 - [Password Generator App](https://password-generator.spomberg.com) (Single-page app created with React)
+- [memory](https://memory.spomberg.com) (Responsive memory game app that can be played in either solo or multiplayer modes built with React and TypeScript.)
 
 ---
 
