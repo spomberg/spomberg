@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a Full-Stack Web Devevelober with experience in JavaScript, TypeScript, Java, HTML, CSS, SASS, React.JS, Node.JS, Ruby/Rails, PostgreSQL, MongoDB.
+### I'm a Full-Stack Web Devevelober with experience in JavaScript, TypeScript, HTML, CSS, SASS, React.JS, Node.JS, Ruby/Rails, PostgreSQL, MongoDB.
 
 ### Check out my portfolio at [spomberg.com](https://spomberg.com) and my deployed projects at: 
 
