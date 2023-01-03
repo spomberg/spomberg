@@ -1,4 +1,6 @@
-### Web Devevelober with experience in JavaScript, TypeScript, React.JS, HTML, CSS, SASS, Node.JS, Ruby/Rails, PostgreSQL, MongoDB, GIT.
+### Web Devevelober with with a knack for finding innovative solutions for solving complex problems in a timely manner. 
+
+### Experience in JavaScript, TypeScript, React.JS, HTML, CSS, SASS, Node.JS, Ruby/Rails, PostgreSQL, MongoDB, GIT.
 
 ### Check out my portfolio at [spomberg.com](https://spomberg.com) and my deployed projects at: 
 
