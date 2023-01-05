@@ -1,4 +1,4 @@
-### Web Devevelober with with a knack for finding innovative solutions for solving complex problems in a timely manner. 
+### Web Developer with with a knack for finding innovative solutions for solving complex problems in a timely manner. 
 
 ### Experience in JavaScript, TypeScript, React.JS, HTML, CSS, SASS, Node.JS, Ruby/Rails, PostgreSQL, MongoDB, GIT.
 
