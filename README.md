@@ -1,6 +1,6 @@
-### Web Developer with with a knack for finding innovative solutions for solving complex problems in a timely manner. 
+### AWS Certified Developer with a flair for creativity and an eye for design. Skilled in turning complex problems into elegant solutions. With a strong project management and marketing background, I bring a unique perspective to every project. 
 
-### Experience in JavaScript, TypeScript, React.JS, Node.JS, Ruby on Rails, PostgreSQL, MongoDB.
+### Experience in JavaScript, TypeScript, AWS, React.JS, Node.JS, Ruby on Rails, PostgreSQL, MongoDB.
 
 ### Check out my portfolio at [spomberg.com](https://spomberg.com) and my deployed projects at: 
 
