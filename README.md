@@ -1,4 +1,4 @@
-### AWS Certified Developer with a flair for creativity and an eye for design. With a strong project management and marketing background, I bring a unique perspective to every project. 
+### AWS Certified Developer with a flair for creativity and an eye for design. With a strong project management and excellent communication skills, I bring a unique perspective to every project. 
 
 ### Experience in JavaScript, TypeScript, AWS, React.JS, Node.JS, Ruby on Rails, PostgreSQL, MongoDB.
 
