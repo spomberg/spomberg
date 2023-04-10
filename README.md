@@ -4,7 +4,7 @@
 
 ### Check out my portfolio at [spomberg.com](https://spomberg.com) and my deployed projects at: 
 
-- [Book Bazaar](https://dev.d2m4emttpo7ofl.amplifyapp.com/) (Virtual bookstore deployed on AWS using Lambda, DynamoDB, S3, Incognito and Amplify)
+- [Book Bazaar]([https://dev.d2m4emttpo7ofl.amplifyapp.com/](http://mybookstore-20230408214730-hostingbucket-dev.s3-website-us-east-1.amazonaws.com/) (Virtual bookstore deployed on AWS using Lambda, DynamoDB, S3, Incognito and Amplify)
 - [My Movie List](https://mymovielist.ca) (My first solo full-stack project)
 - [Password Generator App](https://password-generator.spomberg.com) (Single-page app created with React)
 - [Memory Game](https://memory.spomberg.com) (Responsive memory game app that can be played in either solo or multiplayer modes built with React and TypeScript.)
