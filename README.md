@@ -13,3 +13,4 @@
 
 - 📫 How to reach me: <marcosspomberg@gmail.com> / [LinkedIn](https://www.linkedin.com/in/marcos-spomberg)
 - 😄 Pronouns: He/Him
+- 📄 [Resume](https://resume.creddle.io/resume/ficw6ujhr3l)
